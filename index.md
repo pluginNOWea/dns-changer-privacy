@@ -2,7 +2,7 @@ Privacy Policy — DNS Changer 2026
 
 Effective date: 2025-08-29
 Developer/Brand: pluginNOWea
-Contact: ho3ein696h@gmail.com
+Contact: pluginnowea@gmail.com
 
 What the app does
 
