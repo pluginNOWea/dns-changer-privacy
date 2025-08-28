@@ -20,6 +20,8 @@ Data that may be processed
 
 Device & app info (non-personal): app version, Android version, device model — for compatibility and troubleshooting.
 
+User feedback: If you choose to send feedback by email, the message may include non-personal device information (model, Android version, screen size) which you can review before sending. This information is only used to help troubleshoot issues.
+
 Advertising (AppLovin): Advertising ID and ad impression data are used to serve and measure ads. We do not control how ad partners handle data; see their policies in-app.
 
 No in-app purchases, no analytics, no crash reporting.
