@@ -2,7 +2,7 @@ Terms of Use — DNS Changer 2026
 
 Effective date: 2025-08-29
 Developer/Brand: pluginNOWea
-Contact: ho3ein696h@gmail.com
+Contact: pluginnowea@gmail.com
 
 1. Acceptance of Terms
 
