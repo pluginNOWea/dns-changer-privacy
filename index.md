@@ -1,5 +1,3 @@
-Privacy Policy — DNS Changer 2026
-
 Effective date: 2025-08-29
 Developer/Brand: pluginNOWea
 Contact: pluginnowea@gmail.com
@@ -20,15 +18,27 @@ Data that may be processed
 
 Device & app info (non-personal): app version, Android version, device model — for compatibility and troubleshooting.
 
+IP address & Advertising ID: may be processed by our advertising partners (Appodeal, AppLovin, AdMob) for serving and measuring ads.
+
 User feedback: If you choose to send feedback by email, the message may include non-personal device information (model, Android version, screen size) which you can review before sending. This information is only used to help troubleshoot issues.
 
-Advertising (AppLovin): Advertising ID and ad impression data are used to serve and measure ads. We do not control how ad partners handle data; see their policies in-app.
+We do not use in-app purchases, analytics, or crash reporting.
 
-No in-app purchases, no analytics, no crash reporting.
+Advertising and third parties
 
-DNS providers and third parties
+Ads are provided through Appodeal mediation, which may include networks such as AppLovin, AdMob, and others. These partners may process IP address, advertising ID, and ad impression data.
 
-Your DNS queries are sent directly to the resolver you choose. Their own privacy policies apply. For custom resolvers, you are responsible. Ads are provided by AppLovin; ad partner policies apply.
+We do not control how ad partners handle data; please review their policies:
+
+Appodeal: https://appodeal.com/privacy-policy
+
+Google AdMob: https://policies.google.com/privacy
+
+AppLovin: https://www.applovin.com/privacy
+
+DNS providers
+
+Your DNS queries are sent directly to the resolver you choose. Their own privacy policies apply. For custom resolvers, you are responsible.
 
 Retention
 
